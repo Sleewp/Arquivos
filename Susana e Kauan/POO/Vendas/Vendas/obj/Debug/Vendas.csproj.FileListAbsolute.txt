@@ -1,0 +1,10 @@
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\bin\Debug\Vendas.exe.config
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\bin\Debug\Vendas.exe
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\bin\Debug\Vendas.pdb
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\obj\Debug\Vendas.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\obj\Debug\Vendas.frmvendas.resources
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\obj\Debug\Vendas.Properties.Resources.resources
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\obj\Debug\Vendas.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\obj\Debug\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\obj\Debug\Vendas.exe
+C:\Users\2jd\Documents\Susana e Kauan\POO\Vendas\Vendas\obj\Debug\Vendas.pdb
